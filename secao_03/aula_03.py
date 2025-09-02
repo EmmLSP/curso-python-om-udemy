@@ -1,6 +1,7 @@
 # Tipos de Dados - Strings
 
 """
+DocString -> tipo de string
 Python = Linguagem de programação
 Tipo de tipagem = Dinâmica / Forte
 str -> string -> texto
