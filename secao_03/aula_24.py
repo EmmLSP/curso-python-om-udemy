@@ -8,7 +8,6 @@
 #  O t á v i o
 # -6-5-4-3-2-1
 
-'''
 nome = 'Otávio'
 print(nome[2])
 print(nome[-4])
@@ -20,7 +19,6 @@ print('zero' in nome) # return False
 print('-' * 10)
 print('vio' not in nome) # return False
 print('zero' not in nome) # return True
-'''
 
 nome = input('Digite seu nome: ')
 encontrar = input('Digite o que deseja encontrar: ')
