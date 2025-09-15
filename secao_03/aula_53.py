@@ -2,6 +2,7 @@
 
 """
 enumerate - enumera iteraveis (indices)
+iteravel - lista, string, tupla
 """
 
 lista = ['Maria', 'Helena', 'Luiz']
